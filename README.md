@@ -1,1 +1,1 @@
-# Java-dog
+Dummy template
